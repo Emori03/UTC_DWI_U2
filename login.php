@@ -55,7 +55,7 @@ if (isset($_POST['entrar'])) {
     <title>Iniciar Sesión</title>
     <style>
         body {
-            background-image: url(img/fondo.jpg);
+            
             background-position: center;
             background-repeat: no-repeat; 
             background-size: cover;

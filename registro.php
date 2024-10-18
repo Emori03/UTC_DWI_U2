@@ -36,7 +36,7 @@ if (isset($_POST['guardar'])) {
 <style>
   body
         {
-            background-image: url(img/fondo.jpg);
+            
             background-position: center;
             background-repeat: no-repeat; 
             background-size: cover;
